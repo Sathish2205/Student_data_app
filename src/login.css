@@ -10,8 +10,8 @@ body, html {
 
 .App {
     display: flex;
-    justify-content: space-around;
-    gap: 50px;
+    justify-content: space-evenly;
+    gap: 30px;
     padding-top: 10px;
     height: 100vh;
     background-image: url(https://media.istockphoto.com/id/1090877146/vector/isometric-business-team-present-report-graph-on-monitor-dashboard-and-business-training.jpg?s=612x612&w=0&k=20&c=8OSqVPbRFjsLVe_JOQvottPynr16CgJx5SmdqawGkZc=);
@@ -24,13 +24,14 @@ body, html {
 .title {
     text-align: center;
     margin-top: 10%;
-    margin-left: 10%;
+    /* margin-left: 10%; */
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bolder;
     color: rgb(27, 78, 155);
 }
 
 .card {
+    display: flex;
     padding: 20px;
     background-color: rgba(255, 255, 255, 0.5);
     border-radius: 20px;
@@ -60,8 +61,8 @@ body, html {
     }
     .title {
     text-align: center;
-    margin-top: 10%;
-    margin-left: 0;
+    margin-top: 10;
+    margin-right: 50px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bolder;
     color: rgb(27, 78, 155);

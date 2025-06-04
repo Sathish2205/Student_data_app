@@ -62,7 +62,7 @@ function LoginData() {
         <div className="title">
             <h1>Wellcome To The <br /><span>Student Dashboard</span></h1>
         </div>
-        <div className="content" style={{ width: "450px", paddingTop: "30px" }}>
+        <div className="content1" style={{ paddingTop: "30px" }}>
             <div className="card">
                 <div className="card-title">
                     <h1 className="text-center">Log In</h1>
