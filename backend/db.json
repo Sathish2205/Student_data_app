@@ -1,0 +1,159 @@
+{
+  "Students": [
+    {
+      "name": "mathi",
+      "email": "mathi@gmail.com",
+      "phone": "987667676",
+      "address": "Edappadi",
+      "id": 2
+    },
+    {
+      "name": "Thanush Vishal",
+      "email": "thanush@gmail.com",
+      "phone": "94358743",
+      "address": "Ariyalur",
+      "id": 3
+    },
+    {
+      "name": "Arjun",
+      "email": "ar@gmail.com",
+      "phone": "98765432",
+      "address": "Chennai",
+      "id": 4
+    },
+    {
+      "name": "Arjun varma",
+      "email": "ar@gmail.com",
+      "phone": "98765432",
+      "address": "Chennai",
+      "id": 9
+    },
+    {
+      "name": "SathishKumar",
+      "email": "sathishs@gmail.com",
+      "phone": "9876543210",
+      "address": "Mettur",
+      "id": 10
+    },
+    {
+      "name": "Gokulnath",
+      "email": "gokul@gmail.com",
+      "phone": "4567864567",
+      "address": "Komarapalayam",
+      "id": 11
+    },
+    {
+      "name": "mathi",
+      "email": "mathi@gmail.com",
+      "phone": "98766767677",
+      "address": "Edappadii",
+      "id": 12
+    },
+    {
+      "name": "Thanush Vishal",
+      "email": "thanush@gmail.com",
+      "phone": "94358743",
+      "address": "Ariyalur",
+      "id": 13
+    },
+    {
+      "name": "Arjun",
+      "email": "ar@gmail.com",
+      "phone": "98765432",
+      "address": "Chennai",
+      "id": 14
+    },
+    {
+      "name": "Sathish",
+      "email": "sathishs@gmail.com",
+      "phone": "9876543210",
+      "address": "Mettur",
+      "id": 15
+    },
+    {
+      "name": "Ganesan",
+      "email": "ganesh@gmail.com",
+      "phone": "4567864567",
+      "address": "Komarapalayam",
+      "id": 16
+    },
+    {
+      "name": "mathi",
+      "email": "mathi@gmail.com",
+      "phone": "98766767677",
+      "address": "Edappadii",
+      "id": 17
+    },
+    {
+      "name": "Thanush Vishal",
+      "email": "thanush@gmail.com",
+      "phone": "94358743",
+      "address": "Ariyalur",
+      "id": 18
+    },
+    {
+      "name": "Arjun",
+      "email": "ar@gmail.com",
+      "phone": "98765432",
+      "address": "Chennai",
+      "id": 19
+    },
+    {
+      "name": "Sathish",
+      "email": "sathishs@gmail.com",
+      "phone": "9876543210",
+      "address": "Mettur",
+      "id": 20
+    },
+    {
+      "name": "Dharashana",
+      "email": "dharshu@gmail.com",
+      "phone": "08787567904",
+      "address": "Mettur Dam",
+      "id": 21
+    },
+    {
+      "name": "Monish",
+      "email": "monish@gmail.com",
+      "phone": "9876543",
+      "address": "Poolampatti",
+      "id": 22
+    },
+    {
+      "name": "Saranya",
+      "email": "saran@gmail.com",
+      "phone": "87765994",
+      "address": "Salem",
+      "id": 23
+    },
+    {
+      "name": "Asfaque",
+      "email": "achu@gmail.com",
+      "phone": "8764467907",
+      "address": "Erode",
+      "id": 24
+    },
+    {
+      "name": "Mayyarasan",
+      "email": "meyy@gmail.com",
+      "phone": "9876543211",
+      "address": "Salem",
+      "id": 25
+    },
+    {
+      "name": "Dhanusri",
+      "email": "dhans@gmail.com",
+      "phone": "98776543",
+      "address": "Gopi",
+      "id": 26
+    },
+    {
+      "name": "Dhanusri",
+      "email": "dhans@gmail.com",
+      "phone": "45456788",
+      "address": "Gopi",
+      "id": 27
+    }
+  ],
+  "Products": []
+}

@@ -39,6 +39,7 @@ function Main() {
                 .then((res) => {
                     alert("Deleted Successfully")
                     window.location.reload()
+                    navigate("/main")
                 })
                 .catch((err) => {
                     console.log("error", err)

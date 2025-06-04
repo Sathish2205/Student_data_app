@@ -56,6 +56,7 @@ function Register() {
             createUserWithEmailAndPassword(auth, mail, pass1)
                 .then(() => {
                     alert("New Account Created")
+                    navigate("/")
                 })
                 .catch((err) => {
                     console.log("Error", err)
