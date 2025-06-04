@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wraper1{
+    background-image: url(https://img.freepik.com/free-vector/flat-design-minimalist-background_23-2149987685.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    height: 100vh;
+
+}
+.container1{
+   width: 30%;
+   margin-left: 35%;
+   padding-top: 30px;
+  overflow-x: auto;
+
+}

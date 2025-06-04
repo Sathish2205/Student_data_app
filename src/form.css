@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.wraper .card{
+    box-shadow: 1px 5px 10px #888888;
+    background-color: aquamarine;
+
+}
+.container #content{
+    background-color: none;
+}
+.wraper{
+    background-image: url(https://img.freepik.com/free-vector/flat-design-minimalist-background_23-2149987685.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
+
+@media only screen and (max-width: 500px) {
+    .wraper{
+        width: 60vh;
+        height: 880px;
+    }
+
+}
+
+@media only screen and (max-width: 400px) {
+    .wraper{
+        width: 50vh;
+        height: 100vh;
+    }
+
+}

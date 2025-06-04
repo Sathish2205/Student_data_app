@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head {
+  flex-wrap: wrap;
+  gap: 10px;
+  background-color: rgb(208, 221, 209,.5);
+  margin-bottom: 10px;
+}
+.user{
+  background-color: white;
+  padding-left: 10px;
+  border-radius: 50px;
+  text-align: center;
+}
+.user button{
+  border-radius: 50px;
+}
+.user button:hover{
+  color:black;
+  background-color: #dc3545;
+}
+
+
+.user h1 {
+  margin-right: 15px;
+  align-items: center;
+  margin-top: 15px;
+}
+
+/* Container and table wrapper */
+.container {
+  width: 100%;
+  overflow-x: auto;
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 15px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.container1{
+   width: 100%;
+  overflow-x: auto;
+  /* background-color: #fff;
+  border-radius: 8px;
+  padding: 15px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); */
+
+}
+
+table {
+  width: 100%;
+  min-width: 700px;
+  border-collapse: collapse;
+  
+  /* margin-top: 20px; */
+}
+
+thead {
+  background-color: #e9ecef;
+}
+
+th, td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+
+th {
+  font-weight: bold;
+}
+
+tr:hover {
+  background-color: #f1f1f1;
+}
+
+/* Action buttons */
+#btn1 i,
+#btn2 i {
+  font-size: 16px;
+}
+
+#btn1 {
+  color: #007bff;
+}
+
+#btn2 {
+  color: #dc3545;
+}
+
+#add {
+  border: none;
+  cursor: pointer;
+}
+.btn {
+  border: none;
+  cursor: pointer;
+}
+
+/* Sort/filter bar */
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.sort {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+}
+
+.sort select,
+.sort input {
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.sort button {
+  padding: 6px 12px;
+  border: none;
+  background-color: #28a745;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.sort button:hover {
+  background-color: #218838;
+}
+
+
+/* Pagination */
+.pagination {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+/* Responsive layout */
+@media (max-width: 768px) {
+  .head, .content {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  table {
+    font-size: 14px;
+    min-width: 100%;
+  }
+
+  th, td {
+    padding: 8px;
+  }
+
+    .btn i {
+      font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+  .user h1 {
+    font-size: 16px;
+  }
+
+  .head h1 {
+    font-size: 20px;
+  }
+
+  .sort {
+    gap: 6px;
+  }
+
+  .sort input,
+  .sort select,
+  .sort button {
+    font-size: 14px;
+  }
+}
